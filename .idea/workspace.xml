@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72e2db4-cc39-4944-9d76-a80bedf74021" name="Changes" comment="implement /hello endpoint">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gr/aueb/cf/helloworldservlet/controller/LandingPageController.java" afterDir="false" />
+    <list default="true" id="c72e2db4-cc39-4944-9d76-a80bedf74021" name="Changes" comment="creates /coding-factory endpoint">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gr/aueb/cf/helloworldservlet/controller/InspectRequestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dimdr/Coding Factory/Courses/Java/hello-world-servlet/src/main/webapp/WEB-INF/jsp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +71,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dimdr\Coding Factory\Courses\Java\hello-world-servlet\src\main\webapp\WEB-INF\jsp" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.28" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.28" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/cf6-hello" />
@@ -176,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725566323819</updated>
       <workItem from="1725566324829" duration="1160000" />
-      <workItem from="1725567497203" duration="2336000" />
+      <workItem from="1725567497203" duration="4011000" />
     </task>
     <task id="LOCAL-00001" summary="implement /hello endpoint">
       <option name="closed" value="true" />
@@ -186,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725631740966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creates /coding-factory endpoint">
+      <option name="closed" value="true" />
+      <created>1725632201484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725632201484</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +209,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implement /hello endpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement /hello endpoint" />
+    <MESSAGE value="creates /coding-factory endpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="creates /coding-factory endpoint" />
   </component>
 </project>
